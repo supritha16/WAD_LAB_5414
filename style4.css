@@ -1,0 +1,16 @@
+h3{
+	color: deepskyblue;
+	text-align: left;
+	text-transform: uppercase;
+	text-indent: 100px;
+
+	word-spacing: 20px;
+	line-height: 50px;
+	direction: ltr;
+	text-shadow:1px 1px;
+
+}
+h2{
+	color: hotpink;
+
+}
